@@ -97,6 +97,6 @@ python main.py
 
 ---
 
-## Authors
+## Author
 
 - Devansh Singh Bais
